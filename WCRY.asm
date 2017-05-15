@@ -13,7 +13,7 @@ includelib \masm32\lib\user32.lib
 
 
 .data
- szMutex        db "Global\MsWinZonesCacheCounterMutexA",0
+ szMutex        db "Global\MsWinZonesCacheCounterMutexA0",0
  szMsg          db "WCRY Ransomware Mutex Prevention",00Ah, 00Dh, 0
  szMsg2         db "Minimize this window and keep running to protect machine",00Ah, 00Dh, 0
  szMessage      db "WCRY Mutex already exists, machine is already infected!",0
