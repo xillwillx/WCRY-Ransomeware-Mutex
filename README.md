@@ -1,3 +1,6 @@
+Account moved to: https://gitlab.com/illwill 
+
+
 # WCRY-Ransomeware-Mutex
 Just a quick console program written in MASM to prevent the WCRY ransomware from encrypting files on a machine. 
 It creates a mutex with the same name that the ransomware uses to stop from running its code more than once.
